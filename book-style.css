@@ -1,0 +1,31 @@
+body {
+  background: silver;
+}
+.success,
+.error {
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  background: green;
+}
+
+.error {
+  background: red;
+}
+input[type="text"],
+.u-full-width {
+  background-color: darkkhaki;
+  font-weight: bold;
+}
+
+input[type="submit"] {
+  background-color: darkslategrey;
+  color: cornsilk;
+}
+
+a.delete {
+  color: red;
+}
